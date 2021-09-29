@@ -1,1 +1,1 @@
-this is the assignement of git
+this is the assignment of git and git hub.
